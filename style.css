@@ -1,0 +1,33 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+body{
+  min-height:100vh;
+  min-width:100vw;
+  background-color:darkblue;
+  color:wheat;
+}
+.flex{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.container{
+  margin-top:14em;
+}
+
+span{
+  font-size:25px;
+  color:white;
+
+}
+
+#counter{
+  font-size:5em;
+  color:gold;
+}
+i{
+  margin-left:20px;
+}
